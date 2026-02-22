@@ -2,12 +2,12 @@
 console.log("Hello");
 /** 
  *  This is multi line
- *  Author : Prrmmod Dutta
+ *  Author : Niveditha
  *  Date : 14-Feb-2026
  **/
 
 /* 
  *  This is multi line
- *  Author : Prrmmod Dutta
+ *  Author : Niveditha
  *  Date : 14-Feb-2026
  */
