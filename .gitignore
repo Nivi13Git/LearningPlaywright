@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Playwright
+playwright-report/
+test-results/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Temporary
+tmp/
+*.tmp
+
+# Optional npm cache
+.npm
+
+# Coverage
+coverage/
