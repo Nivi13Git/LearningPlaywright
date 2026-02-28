@@ -1,2 +1,1 @@
-let name1 = "Alice";
-console.log(name1);
+for (let i = 0; i < 5; i++) { if (i === 3) break; } console.log(i);
